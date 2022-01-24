@@ -1,4 +1,4 @@
-# Chapter 5: Day Planner
+# Chapter 5: Dream-Team Day Planner
 by: Yonas Woldemichael
 
 ## Description
@@ -31,7 +31,7 @@ SO THAT I can manage my time effectively
 ## Visuals
 This is what the Work Day Planner looks like when first opened up.
 
-<!-- !["Workday Planner"](./images/isopic.png) -->
+!["Workday Planner"](/chpt5.png)
 
 
 ## Usage 
