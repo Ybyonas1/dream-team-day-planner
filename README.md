@@ -39,6 +39,7 @@ This app can be used by anyone with a busy schedule.
 
 
 ## Links
-This ORM Assignment allowed me to gain some knowledge on how to use Sequelize.
 
-[Link to Repository](https://github.com/Ybyonas1/ecom_backend_yw)
+[Link to Repository](https://github.com/Ybyonas1/dream-team-day-planner)
+
+[Link to Deployed site](https://ybyonas1.github.io/dream-team-day-planner/)
