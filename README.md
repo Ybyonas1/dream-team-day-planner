@@ -2,7 +2,7 @@
 by: Yonas Woldemichael
 
 ## Description
-Student was tasked with creating a simple calendar application that allows a user to save events for each hour of the day. The app will run in the browser and feature dynamically updated HTML and CSS powered by jQuery.
+Student was tasked with creating a simple calendar application that allows a user to save events for each hour of the day. The users input will also be saved in local storage. The app will run in the browser and feature dynamically updated HTML and CSS powered by jQuery.
 
 ## Table of Contents
 - [Description](#description)
